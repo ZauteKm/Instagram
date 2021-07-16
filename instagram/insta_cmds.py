@@ -36,16 +36,16 @@ insta = Config.L
 buttons=InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-            InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+            InlineKeyboardButton("👨🏼‍💻 Developer", url='https://t.me/c/1417456571/588'),
+	    InlineKeyboardButton("Bots Project 🤖", url="https://t.me/c/1481808444/141"),
         ],
         [
-            InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
-            InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+            InlineKeyboardButton("🌐 Source Code", url="https://github.com/ZauteKm/InstagramBot"),
+	    InlineKeyboardButton("Deploy Own Bot ✅", url="https://heroku.com/deploy?template=https://github.com/ZauteKm/InstagramBot"
         ],
         [
-            InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-            InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+            InlineKeyboardButton("❇️ Help & Commands ❇️", callback_data="help#zaute")
+
         ]
 					
     ]
