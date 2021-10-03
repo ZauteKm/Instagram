@@ -8,7 +8,7 @@
       "download",
       "bot"
     ],
-    "repository": "https://github.com/ZauteKm/Instagram-Bot",
+    "repository": "https://github.com/ZauteKm/Instagram",
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
@@ -27,7 +27,7 @@
         "value": ""
       },
       "INSTAGRAM_USERNAME": {
-        "description": "Enter your Instagram Username without @ , Example: samantharuthprabhuoffl",
+        "description": "Enter your Instagram Username without @ , Example: zautekm",
         "value": ""
       },
       "INSTA_SESSIONFILE_ID": {
