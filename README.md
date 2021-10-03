@@ -6,7 +6,7 @@ Please fork this repository don't import code
 Made with Python3
 (C) @ZauteKm
 Copyright permission under MIT License
-License -> https://github.com/ZauteKm/InstagramBot/blob/master/LICENSE
+License -> https://github.com/ZauteKm/Instagram/blob/master/LICENSE
 ```
 
 
@@ -72,7 +72,7 @@ Example: /followers samantharuthprabhuoffl
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/Instagram)
 
-While Deploying fill `INSTA_SESSIONFILE_ID`, either by running [generate_instagram_session.py](https://github.com/ZauteKm/Instagram/blob/master/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@ZauteKm/generateInstagramSession)
+While Deploying fill `INSTA_SESSIONFILE_ID`, either by running [generate_instagram_session.py](https://github.com/ZauteKm/Instagram/blob/master/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@ZauteKm/GenerateInstagramSession)
 
 For Generating Session after deployment, You Must leave the Variable as blank and fill manually after generating `INSTA_SESSIONFILE_ID` from your bot by sending /login.
 
@@ -94,7 +94,7 @@ python3 main.py
 * `BOT_TOKEN` Bot token from [@BotFather](https://telegram.dog/BotFather)
 * `OWNER_ID` Telegram Id of Owner.
 * `INSTAGRAM_USERNAME` Your Instagram username
-* `INSTA_SESSIONFILE_ID` Your Instagram session file ID. Generate either by running [generate_instagram_session.py](https://github.com/ZauteKm/Instagram-Bot/blob/master/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@ZauteKm/generateInstagramSession)
+* `INSTA_SESSIONFILE_ID` Your Instagram session file ID. Generate either by running [generate_instagram_session.py](https://github.com/ZauteKm/Instagram-Bot/blob/master/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@ZauteKm/GenerateInstagramSession)
 
 
 ### Note
