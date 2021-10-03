@@ -59,10 +59,7 @@ You have two Options:
 Just send any instagram username.
 
 For Example:
-<code>samantharuthprabhuoffl</code>
-<code>subin_p_s_</code>
-<code>_chill_manh_7</code>
-
+<code>zautekm</code>
 
 2. From URL:
 
